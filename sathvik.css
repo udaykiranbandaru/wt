@@ -1,0 +1,16 @@
+div.Container{ 
+    color:deeppink; 
+    text-align: center; 
+} 
+ul.myul{ 
+    display:inline-block; 
+    text-align: left; 
+} 
+ol.myol{ 
+    color:black; 
+    display: inline-block; 
+    text-align: left; 
+} 
+table,th,td { 
+    border: 1px solid black; 
+}
